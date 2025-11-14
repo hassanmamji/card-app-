@@ -91,6 +91,12 @@ const products = [
     name: "USB",
     price: 80,
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiVXdDuTKvYcWik1f6rF3fUVU98IkocUcbw&s",
+  },
+  {
+    id: 16,
+    name: "Original Apple MagSafe Wireless Charger 15W ",
+    price: 175,
+    image: "https://achishopping.com/cdn/shop/products/magsafewirelesscharger.jpg?v=1657209941",
   }
 ];
 
